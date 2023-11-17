@@ -48,9 +48,6 @@ Thank you for your interest in this project, and we appreciate your understandin
     This bot will give you streamable download links for Telegram files without the need of waiting till the download completes.
 </p>
 
-<details>
-  <summary><b>How to Use :</b></summary>
-
 
 <br>
 <details>
@@ -60,20 +57,20 @@ Thank you for your interest in this project, and we appreciate your understandin
 <p>
 11
 🚀Features<p>
-💥Superfast⚡️ download and stream links.<br>
-💥No ads in generated links.<br>
-💥Superfast interface.<br>
-💥Along with the links you also get file information like name,size ,etc.<br>
-💥Updates channel Support.<br>
-💥Mongodb database support for broadcasting.<br>
-💥Password Protection.<br>
-💥User Freindly Interface.<br>
-💥Ping check.<br>
-💥User DC Check.<br>
-💥Real time CPU , RAM , Internet usage. <br>
-💥Custom Domain support. <br>
-💥All unwanted code removed. <br>
-💥A lot more tired of writing check out by deploying it. 
+1️⃣fast download and stream links.<br>
+2️⃣No ads in link.<br>
+3️⃣fast interface.<br>
+4️⃣Along with the links you also get file information like name,size ,etc.<br>
+5️⃣Updates channel Support.<br>
+6️⃣Mongodb database support for broadcasting.<br>
+7️⃣Password Protection.<br>
+8️⃣User Freindly Interface.<br>
+9️⃣Ping check.<br>
+🔟User DC Check.<br>
+1️⃣1️⃣Real time CPU , RAM , Internet usage. <br>
+1️⃣2️⃣Custom Domain support. <br>
+1️⃣3️⃣All unwanted code removed. <br>
+1️⃣4️⃣A lot more tired of writing check out by deploying it. 
 </details>
   <details>
   <summary><b>Deploy on Windows or other plataform<b></summary>
@@ -81,12 +78,12 @@ Thank you for your interest in this project, and we appreciate your understandin
   You should make sure you have Python 3.6+ installed on your PC, then clone this repo and run the following commands in a terminal:
 
 ```py
-git clone https://github.com/adarsh-goel/filestreambot-pro
-cd filestreambot-pro
+git clone https://github.com/jd8ejdudiudhshuihsuihj/4GBREAME
+cd 4GBREAME
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
-python3 -m Adarsh
+python3 -m Haroon
 ```
 
 
@@ -103,10 +100,10 @@ Create a file named `config.env` in the root directory and add all the variables
 An example of `config.env` file:
 
 ```py
-API_ID=12345
+API_ID=7474 : your api id
 API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
-BIN_CHANNEL=-100
+BOT_TOKEN=55838383:your bot token here
+BIN_CHANNEL=-100884848
 PORT=8080
 FQDN=your_server_ip
 OWNER_ID=your_user_id
