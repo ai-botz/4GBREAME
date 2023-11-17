@@ -51,8 +51,13 @@ Thank you for your interest in this project, and we appreciate your understandin
 <br>
 <details>
   <summary><b>Features:</b></summary>
+<p>
 
-
+  
+11
+🚀Features<p>
+💥Superfast⚡️ download and stream links.<br>
+💥No ads in 
 
 
 <br>
