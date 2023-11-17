@@ -9,11 +9,11 @@
   </a>
   
  <p align="center">
-    A Telegram bot to turn all media and documents files to instant direct download and stream link .
+    POWER BY AI BOTZ HELP TELEGRAM BOT https://t.me/Help_our_ai_bot .
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
+    <a href="https://t.me/REPORTS_AI_BOT/pro/issues">Report a Bug</a>
     |
     <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
   </p>
