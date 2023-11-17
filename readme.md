@@ -55,7 +55,7 @@ Thank you for your interest in this project, and we appreciate your understandin
   ios
   dts
 <p>
-11
+1️⃣4️⃣
 🚀Features<p>
 1️⃣fast download and stream links.<br>
 2️⃣No ads in link.<br>
@@ -162,5 +162,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/adarsh-goel)
+- [Me]([https://t.me/](https://t.me/the_ai_botz))
 - Everyone In This Journey !
+POWER BY AI 🤖 BOTZ
