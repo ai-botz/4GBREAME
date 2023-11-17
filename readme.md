@@ -48,6 +48,11 @@ Thank you for your interest in this project, and we appreciate your understandin
     This bot will give you streamable download links for Telegram files without the need of waiting till the download completes.
 </p>
 
+<br>
+<details>
+  <summary><b>Features:</b></summary>
+  
+<p>
 
 <br>
 <details>
