@@ -162,6 +162,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me]([https://t.me/](https://t.me/the_ai_botz))
+- [Me]([https://t.me/the_ai_botz])
 - Everyone In This Journey !
 POWER BY AI 🤖 BOTZ
