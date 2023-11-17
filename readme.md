@@ -53,8 +53,7 @@ Thank you for your interest in this project, and we appreciate your understandin
   <summary><b>Features:</b></summary>
 
 
-  
-<p>
+
 
 <br>
 <details>
