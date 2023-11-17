@@ -15,7 +15,7 @@
     <br />
     <a href="https://t.me/REPORTS_AI_BOT/pro/issues">Report a Bug</a>
     |
-    <a href="https://t.me/REQUEST_AI_BOT-pro/issues">Request Feature</a>
+    <a href="https://t.me/REQUEST_AI_BOT/pro/issues">Request Feature</a>
   </p>
 
 
