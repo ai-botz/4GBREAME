@@ -39,7 +39,7 @@ Thank you for your interest in this project, and we appreciate your understandin
 
 <hr>
 
-## 🍁 About This Bot :
+## 🍁 About This AI Bot :
 
 ![streamingfilestreambot-professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
 
