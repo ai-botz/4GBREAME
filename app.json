@@ -1,6 +1,6 @@
 {
   "name": "Adarsh-",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarshgoel",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @the_ai_botz",
   "keywords": [
       "telegram",
       "stream",
@@ -22,16 +22,16 @@
           "description": "Set this to True if you don't want to crash the bot",
           "value": "True"
       },
-      "APP_NAME": {
+      "AI_BOTZ": {
           "description": "Copy-Paste the app name that you just typed above."
       },
-      "API_ID": {
+      "25443947": {
           "description": "Get this value from https://my.telegram.org"
       },
-      "API_HASH": {
+      "ab4cd800dac7c9a36314ee83800adba8": {
           "description": "Get this value from https://my.telegram.org"
       },
-      "BOT_TOKEN": {
+      "6821223808:AAEZsS3AA3PlV3esA9VrZStEL_nSRLJs3ac": {
           "description": "Get this value from @BotFather"
       },
       "BIN_CHANNEL": {
